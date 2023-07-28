@@ -47,7 +47,7 @@ Docker is a powerful containerization platform that allows developers to build, 
    
 3. Create **package.json**
 
-   - Create a package.json file containing the description of the application and its dependencies.
+   - Create a package.json file containing the description of the application.
 
      ![](assets/package.png)
 
